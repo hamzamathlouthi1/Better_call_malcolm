@@ -11,8 +11,8 @@ void init_map(minimap *m)
     
     
    //parametres w positionnement mta3 minimap w mini joueur w engime
-    m->positionmap.x = 250;
-    m->positionmap.y = 19;
+    m->positionmap.x = 150;
+    m->positionmap.y = 150;
     m->positionminijoueur.x = 200;
     m->positionminijoueur.y = 21;
     m->positionengime.x = 0;
